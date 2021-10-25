@@ -1,0 +1,36 @@
+.spedizione{
+    background-color: aqua;
+    text-align: center;
+    margin: 0px;
+    
+}
+.container-fluid{
+
+    margin-top: 10px;
+    font-size: 15px;
+    
+    
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    
+    border: solid 3px black;
+    
+}
+table {
+    
+    text-align: center;
+    font-size: 12px;
+   
+}
+a{
+    color: #002d53;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+table {width: 20%;}
+
+
+td {width: 20%;}
